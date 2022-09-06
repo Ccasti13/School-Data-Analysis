@@ -46,7 +46,7 @@ Thomas High School did not have a change to the school type, as the federal dist
 
 When compared to other school’s reported types, it can be seen that school type has a great impact on scores. All top five scoring schools are Charter schools, Thomas High School included. District controlled schools are all lowest scoring.
 
-References:
+# References:
 Please refer to the PDF write up.
 
 # Summary
