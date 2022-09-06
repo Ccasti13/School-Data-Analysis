@@ -9,10 +9,13 @@ Please refer to the PDF write up for inclusion of tables.
 
 It can be seen that there is a small shift in Thomas High School’s scores and percentages, however this is a small deviation in the larger data set. Overall, the district’s scores would not be affected enough to warrant different funding or support in the future.
 
+
 How is the school summary affected?
 Please refer to the PDF write up for inclusion of tables.
 
 The first number is the average math score for the school, this average only decreased by less than .1. The second number is the average reading score for the school, this average actually increased by .05, which would help the school in funding decisions and teacher performance pay. The third and fourth numbers are the percentages for passing math and reading, these percentages only decreased by less than a full 1% each. The final number is the overall passing percentage, which was only decreased by .3% after the data was cleaned. 
+
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 	These two tables are arranged by highest and lowest performing schools after the data was cleaned. The top table is the 5 highest, and the bottom is the 5 lowest scoring schools.
@@ -24,16 +27,19 @@ How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 9th grade was impacted as it contained inaccurate data, making the group as a whole not countable. The team had to replace 9th grade at Thomas High School with a NaN score. The other grades were not impacted, scores and percentages were not changed. 
 
+
 Scores by school spending
 Even though Thomas High School lost 9th grade scores, the student count did not change between the original and data cleaned tables. While there was a small shift in how much the school spent per student, approximately $2, this is based on the assumption of less data. However the original count of students remained the same as the school size does not differ. There was not a significant change for the District to see or to make different decisions in the future.
 
 When compared to other school’s spending reports, it can be seen that higher spending does not always equal higher scores. Thomas High School spent $638 per student and was second highest in scores, while schools like Johnson High School and Hernandez High School spend $650 and above, and scored in the lowest 5 schools.
+
 
 Scores by school size
 Thomas High School did not have a change to the school size, as the student count was not changed in the cleaned data set from the original data set. 
 The school scores did change as we invalidated 9th grade, however this did not change the fact that these students are still enrolled and count for District decisions such as funding or teacher allocations. 
 
 When compared to other school’s enrollment reports, it can be seen that enrollment numbers hold some impact on scores. Thomas High School as 1635 student enrolled and scored second in the district. Schools with triple the students, like Johnson High School with 4761 students enrolled scored the lowest of all schools.
+
 
 Scores by school type
 Thomas High School did not have a change to the school type, as the federal distinction of Charter School was not impacted by the cleaning of data. 
