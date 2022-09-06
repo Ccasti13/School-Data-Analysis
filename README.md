@@ -12,7 +12,7 @@ It can be seen that there is a small shift in Thomas High School’s scores and 
 How is the school summary affected?
 Please refer to the PDF write up for inclusion of tables.
 
-	The first number is the average math score for the school, this average only decreased by less than .1. The second number is the average reading score for the school, this average actually increased by .05, which would help the school in funding decisions and teacher performance pay. The third and fourth numbers are the percentages for passing math and reading, these percentages only decreased by less than a full 1% each. The final number is the overall passing percentage, which was only decreased by .3% after the data was cleaned. 
+The first number is the average math score for the school, this average only decreased by less than .1. The second number is the average reading score for the school, this average actually increased by .05, which would help the school in funding decisions and teacher performance pay. The third and fourth numbers are the percentages for passing math and reading, these percentages only decreased by less than a full 1% each. The final number is the overall passing percentage, which was only decreased by .3% after the data was cleaned. 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 	These two tables are arranged by highest and lowest performing schools after the data was cleaned. The top table is the 5 highest, and the bottom is the 5 lowest scoring schools.
